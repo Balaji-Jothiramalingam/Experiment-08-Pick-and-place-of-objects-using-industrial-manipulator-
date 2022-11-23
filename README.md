@@ -97,9 +97,12 @@ and click on the connect icon
 
 
 
+```
+Name: Balaji J
+Reg No: 212221243001
+```
 
-
-### output video and screen shots of pick and place 
+### output : 
 
 ![img](j1.jpeg)
 
